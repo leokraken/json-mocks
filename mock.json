@@ -1,0 +1,41 @@
+{
+  "test": [
+    {
+      "id": 1,
+      "description": "Some description",
+      "hour": "test",
+      "date": "now",
+      "skills": [
+        {
+          "id": 1,
+          "name": "Enginner"
+        },
+        {
+          "id": 2,
+          "name": "Architect"
+        }
+      ],
+      "locations":[
+        {
+          "id": 1,
+          "street": "Some street, 1234"
+        },
+        {
+          "id": 2,
+          "street": "Another street, 123"
+        }
+      ]
+    }
+  ],
+  "skills": [
+  
+       {
+          "id": 1,
+          "name": "Enginner"
+        },
+        {
+          "id": 2,
+          "name": "Architect"
+        }
+  ]
+}
