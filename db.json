@@ -38,6 +38,25 @@
           "name": "Architect"
         }
   ],
+  "test1":{
+	  "supermarket":{
+	  	"navigation-wrapper":{
+			"home": {
+			"sections": [{
+					"type": "hero",
+					"content": {
+						"main_image": "https://http2.mlstatic.com/storage/supermarket/navigation/images/hero/mlm-main-image-mobile-x2.png",
+						"instructions": [{
+							"icon": "truck",
+							"text": "Preparamos tu compra para que llegue hasta tu casa en menos de 24 hs."
+						}]
+					}
+				}
+				]
+			}
+		}
+	  }
+  },
   "supermarket":{
      "navigation-wrapper":{
         "home": {
